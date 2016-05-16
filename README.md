@@ -10,4 +10,4 @@ Must install the following before to use the request module- npm install request
 2. Temperature Sensor
 3. Air Quality Sensor
 
-Example uplaods the data to dweet.io
+Example uploads the data to dweet.io
